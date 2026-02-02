@@ -1,10 +1,3 @@
-Perfect idea 💯
-A good **README.md** makes your GitHub project look professional and understandable to recruiters and teachers.
-
-Below is a **complete, clean, professional README file** you can directly copy-paste into `README.md` in your GitHub repository.
-
----
-
 # 🛡️ Web Page Phishing Detection using Machine Learning
 
 ## 📌 Project Overview
